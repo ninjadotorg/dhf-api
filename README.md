@@ -7,13 +7,6 @@
 
 ![divider](./dhf-divider.png)
 
-## ❯ Why
-
-Our main goal with this project is a feature complete server application.
-We like you to be focused on your business and not spending hours in project configuration.
-
-Try it!! We are happy to hear your feedback or any kind of new features.
-
 ### Features
 
 - **Beautiful Code** thanks to the awesome annotations of the libraries from [pleerock](https://github.com/pleerock).

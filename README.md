@@ -3,8 +3,6 @@
   <sub>Made with ❤️ by <a href="https://github.com/w3tecch">w3tech</a>, <a href="https://twitter.com/GeryHirschfeld1">Gery Hirschfeld</a> and <a href="https://github.com/w3tecch/express-typescript-boilerplate/graphs/contributors">contributors</a></sub>
 </p>
 
-<br />
-
 ![divider](./dhf-divider.png)
 
 ### Features
